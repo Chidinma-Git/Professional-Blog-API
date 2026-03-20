@@ -63,5 +63,5 @@ Professionnal-blog-api
 └── .env
 
 ### 1. Clone the repository
-git clone: https://github.com/chidinma/blog-api.git
+git clone: [https://github.com/chidinma/blog-api.git](https://github.com/Chidinma-Git/Professional-Blog-API)
 cd blog-api
